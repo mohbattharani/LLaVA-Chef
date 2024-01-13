@@ -1,0 +1,52 @@
+[
+    {
+        "Bleu_1": 0.2674,
+        "Bleu_2": 0.1273,
+        "Bleu_3": 0.064,
+        "Bleu_4": 0.034,
+        "METEOR": 0.1163,
+        "ROUGE_L": 0.1367,
+        "CIDEr": 0.0445,
+        "method": "cheft5_recipe.json"
+    },
+    {
+        "Bleu_1": 0.2967,
+        "Bleu_2": 0.159,
+        "Bleu_3": 0.0893,
+        "Bleu_4": 0.0523,
+        "METEOR": 0.2002,
+        "ROUGE_L": 0.1881,
+        "CIDEr": 0.0367,
+        "method": "llava_recipe.json"
+    },
+    {
+        "Bleu_1": 0.3222,
+        "Bleu_2": 0.1899,
+        "Bleu_3": 0.1174,
+        "Bleu_4": 0.0752,
+        "METEOR": 0.1594,
+        "ROUGE_L": 0.2109,
+        "CIDEr": 0.1863,
+        "method": "llava_chef_recipe.json"
+    },
+    {
+        "Bleu_1": 0.1289,
+        "Bleu_2": 0.0751,
+        "Bleu_3": 0.048,
+        "Bleu_4": 0.0326,
+        "METEOR": 0.0823,
+        "ROUGE_L": 0.1056,
+        "CIDEr": 0.0634,
+        "method": "mistral_recipe.json"
+    },
+    {
+        "Bleu_1": 0.2515,
+        "Bleu_2": 0.1294,
+        "Bleu_3": 0.0717,
+        "Bleu_4": 0.0426,
+        "METEOR": 0.1564,
+        "ROUGE_L": 0.1574,
+        "CIDEr": 0.0312,
+        "method": "llama_recipe.json"
+    }
+]

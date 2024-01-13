@@ -1,0 +1,52 @@
+[
+    {
+        "Bleu_1": 0.293,
+        "Bleu_2": 0.1572,
+        "Bleu_3": 0.0886,
+        "Bleu_4": 0.052,
+        "METEOR": 0.1995,
+        "ROUGE_L": 0.1885,
+        "CIDEr": 0.0383,
+        "method": "cheft5_recipe5k"
+    },
+    {
+        "Bleu_1": 0.1355,
+        "Bleu_2": 0.0781,
+        "Bleu_3": 0.0496,
+        "Bleu_4": 0.0335,
+        "METEOR": 0.0818,
+        "ROUGE_L": 0.1033,
+        "CIDEr": 0.0685,
+        "method": "mistral_recipe5k"
+    },
+    {
+        "Bleu_1": 0.2354,
+        "Bleu_2": 0.1207,
+        "Bleu_3": 0.0671,
+        "Bleu_4": 0.0401,
+        "METEOR": 0.1598,
+        "ROUGE_L": 0.1588,
+        "CIDEr": 0.036,
+        "method": "llama_recipe5k"
+    },
+    {
+        "Bleu_1": 0.293,
+        "Bleu_2": 0.1572,
+        "Bleu_3": 0.0886,
+        "Bleu_4": 0.052,
+        "METEOR": 0.1995,
+        "ROUGE_L": 0.1885,
+        "CIDEr": 0.0383,
+        "method": "llava_recipe5k"
+    },
+    {
+        "Bleu_1": 0.3224,
+        "Bleu_2": 0.19,
+        "Bleu_3": 0.1174,
+        "Bleu_4": 0.0751,
+        "METEOR": 0.1591,
+        "ROUGE_L": 0.2109,
+        "CIDEr": 0.1844,
+        "method": "llava_chef_recipe5k"
+    }
+]
