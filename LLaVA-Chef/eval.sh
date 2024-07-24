@@ -12,6 +12,7 @@ python eval.py \
     --start=0 \
     --end=-1
 '''
+
 python eval.py \
     --model_path="/data/checkpoints/LLaVA/LLaVA-7B-Lightening-v1-1/"\
     --dataset_dir=/data/datasets/Food/Recipe1M/ \
